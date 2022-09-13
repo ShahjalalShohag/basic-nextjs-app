@@ -2,7 +2,7 @@
 
 This is a practice project to learn Next.js and React.
 
-What I learned:
+## What I Have Learned
 
 - Getting Setup with create-next-app
 - Pages & Routing
